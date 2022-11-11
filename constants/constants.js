@@ -19,8 +19,8 @@ import { MdCall } from "react-icons/md";
 
 export const accountDetails = {
   account: "Google Account",
-  name: "Jayesh Choudhary",
-  gmail: "jayesh.choudhary2906@gmail.com",
+  name: "Sourabh Nerlekar",
+  gmail: "sourabhnerlekar22@gmail.com",
 };
 
 export const navBar = [
@@ -52,8 +52,8 @@ export const navBar = [
 ];
 
 export const info = {
-  heading: "Jayesh Choudhary: Software Engineer",
-  mobileHeading: "Jayesh Choudhary",
+  heading: "Souarbh Nerlekar: Front-End Engineer",
+  mobileHeading: "Souarbh Nerlekar",
   description:
     "Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.",
   workExperience: "Work Experience",
@@ -80,38 +80,38 @@ export const sideBarInfo = {
 
   contactDetails: [
     {
-      title: "jayesh.choudhary2906@gmail.com",
-      href: "mailto:jayesh.choudhary2906@gmail.com",
+      title: "sourabhnerlekar22@gmail.com",
+      href: "mailto:sourabhnerlekar22@gmail.com",
       icon: GrMail,
     },
     {
-      title: "8329812727",
+      title: "+91 00000 00000",
       href: "",
       icon: BsFillPhoneFill,
     },
     {
       title: "Linkedin Profile",
-      href: "https://www.linkedin.com/in/jayesh-choudhary-72444518b/",
+      href: "https://www.linkedin.com/in/sourabhnerlekar/",
       icon: FaLinkedin,
     },
     {
       title: "Github Profile",
-      href: "https://github.com/jayesh2906",
+      href: "https://github.com/GitSourabh7",
       icon: AiFillGithub,
     },
     {
       title: "Portfolio link",
-      href: "https://jayesh2906.github.io",
+      href: "https://yo-sourabh.github.io",
       icon: BiLinkAlt,
     },
     {
       title: "Google Portfolio link",
-      href: "https://google-portfolio.vercel.app/",
+      href: "https://yo-sourabh.github.io/",
       icon: AiFillGoogleCircle,
     },
     {
       title: "Twitter Profile",
-      href: "https://twitter.com/JayeshMERN",
+      href: "https://twitter.com/NerlekarSourabh",
       icon: AiFillTwitterCircle,
     },
   ],
@@ -119,20 +119,20 @@ export const sideBarInfo = {
 
 export const accordionData = [
   {
-    question: "What skills does Jayesh have?",
-    answer: `Jayesh is well-versed in Javascript, React Js, Redux, CSS 3, HTML 5, Tailwind, Next Js, React Native, Node Js, Express Js, MongoDb.`,
+    question: "What skills does Sourabh have?",
+    answer: `Sourabh is well-versed in Javascript, React Js, Redux, CSS 3, HTML 5, Tailwind, Next Js, React Native, Node Js, Express Js, MongoDb.`,
   },
   {
-    question: "What services does Jayesh provide?",
-    answer: `Jayesh provides fully responsive frontend applications with React Js, Full-stack aplications with MERN and Backend services with Node Js.`,
+    question: "What services does Sourabh provide?",
+    answer: `Sourabh provides fully responsive frontend applications with React Js, Full-stack aplications with MERN and Backend services with Node Js.`,
   },
   {
-    question: "Is Jayesh frontend or backend developer?",
-    answer: `Jayesh is a full stack web developer, Experienced in developing full stack MERN apllications.`,
+    question: "Is Sourabh frontend or backend developer?",
+    answer: `Sourabh is a full stack web developer, Experienced in developing full stack MERN apllications.`,
   },
   {
-    question: "How much experience does Jayesh have?",
-    answer: `Jayesh has ${calculateExperience()} of experience in software industry.`,
+    question: "How much experience does Sourabh have?",
+    answer: `Sourabh has ${calculateExperience()} of experience in software industry.`,
   },
 ];
 
@@ -140,7 +140,7 @@ export const projectVideos = [
   {
     heading: "Mini Laptop Implementation using React Js.",
     platform: `Linkedin.`,
-    author: `Jayesh Choudhary`,
+    author: `Sourabh Nerlekar`,
     image: `/assets/laptopdesign.png`,
     date: `1-Mar-2022`,
     link: `https://www.linkedin.com/feed/update/urn:li:ugcPost:6904281486057373696/`,
@@ -148,7 +148,7 @@ export const projectVideos = [
   {
     heading: "House Design with pure CSS [2022].",
     platform: `Linkedin.`,
-    author: `Jayesh Choudhary`,
+    author: `Sourabh Nerlekar`,
     image: `/assets/housedesign.png`,
     date: `10-Jan-2022`,
     link: `https://www.linkedin.com/posts/jayesh-choudhary-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d`,
@@ -156,7 +156,7 @@ export const projectVideos = [
   {
     heading: "IPL-2022 Web Application using React Js.",
     platform: `Linkedin.`,
-    author: `Jayesh Choudhary`,
+    author: `Sourabh Nerlekar`,
     image: `/assets/ipl2022.png`,
     date: `26-Mar-2022`,
     link: `https://www.linkedin.com/feed/update/urn:li:activity:6913334580070498304/`,
@@ -165,38 +165,38 @@ export const projectVideos = [
 
 export const relatedsearch = [
   {
-    text: "Jayesh's Skills",
+    text: "Sourabh's Skills",
     href: "/skills",
   },
   {
-    text: "Jayesh's Projects",
+    text: "Sourabh's Projects",
     href: "/projects",
   },
   {
-    text: "Contact Jayesh",
+    text: "Contact Sourabh",
     href: "/contact",
   },
   {
-    text: "Jayesh's Location",
+    text: "Sourabh's Location",
     href: "/map",
   },
 ];
 
 export const footerData = {
-  name: "JayeshChoudhary",
+  name: "SourabhNerlekar",
   year: new Date().getFullYear(),
   darkTheme: "Dark theme: ",
   socialLinks: [
     {
-      href: "https://www.linkedin.com/in/jayesh-choudhary-72444518b/",
+      href: "https://www.linkedin.com/in/sourabhnerlekar/",
       icon: FaLinkedin,
     },
     {
-      href: "https://jayesh2906.github.io",
+      href: "https://yo-sourabh.github.io",
       icon: BiLinkAlt,
     },
     {
-      href: "https://github.com/jayesh2906",
+      href: "https://github.com/GitSourabh7",
       icon: FaGithub,
     },
     {
@@ -204,14 +204,14 @@ export const footerData = {
       icon: FaInstagram,
     },
     {
-      href: "https://twitter.com/JayeshMERN",
+      href: "https://twitter.com/NerlekarSourabh",
       icon: FaTwitterSquare,
     },
   ],
 };
 
 export const skillsData = {
-  info: "Jayesh loves to develop innovative web apps using new technologies, He is keen to gain experience, enhance and upgrade his skills, He enjoys building everything from small sites and landing pages to rich interactive web apps. He loves creating visually stunning, unique and responsive web apps.",
+  info: "Sourabh loves to develop innovative web apps using new technologies, He is keen to gain experience, enhance and upgrade his skills, He enjoys building everything from small sites and landing pages to rich interactive web apps. He loves creating visually stunning, unique and responsive web apps.",
   skills: [
     {
       title: "Frontend Skills",
@@ -262,19 +262,19 @@ export const skillsData = {
       shadowColor: "#61DAFB",
     },
     {
-      title: "Html 5",
+      title: "HTML 5",
       href: "https://www.w3.org/html/",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
       shadowColor: "#f97316",
     },
     {
-      title: "Tailwind Css",
+      title: "Tailwind CSS",
       href: "https://tailwindcss.com/",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
       shadowColor: "#38bdf8",
     },
     {
-      title: "Material Ui",
+      title: "Material UI",
       href: "https://mui.com/",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg",
       shadowColor: "#1C7FB6",
@@ -292,18 +292,18 @@ export const skillsData = {
       shadowColor: "#CB6699",
     },
     {
-      title: "Node Js",
+      title: "Node JS",
       href: "https://nodejs.org",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
       shadowColor: "#83CD29",
     },
     {
-      title: "Express Js",
+      title: "Express JS",
       href: "https://expressjs.com",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
     },
     {
-      title: "Mongo Db",
+      title: "Mongo DB",
       href: "https://www.mongodb.com/",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
       shadowColor: "#75BB69",
@@ -449,26 +449,26 @@ export const contactDetails = [
   {
     icon: MdCall,
     type: "Mobile",
-    value: "8329812727",
-    href: "",
+    value: "+91 00000 00000",
+    href: "tel:+91 00000 00000",
   },
   {
     icon: GrMail,
     type: "Email",
-    value: "jayesh.choudhary2906@gmail.com",
-    href: "mailto:jayesh.choudhary2906@gmail.com",
+    value: "sourabhnerlekar22@gmail.com",
+    href: "mailto:sourabhnerlekar22@gmail.com",
   },
   {
     icon: MdLocationOn,
     type: "Address",
-    value: "Burhanpur, Madhya Pradesh",
+    value: "Maharashtra, India",
     href: "",
   },
   {
     icon: FaLinkedin,
     type: "Linkedin",
     value: "Contact through Linkedin",
-    href: "https://www.linkedin.com/in/jayesh-choudhary-72444518b/",
+    href: "https://www.linkedin.com/in/sourabhnerlekar/",
   },
 ];
 
