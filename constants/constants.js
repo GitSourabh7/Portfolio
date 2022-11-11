@@ -52,8 +52,8 @@ export const navBar = [
 ];
 
 export const info = {
-  heading: "Souarbh Nerlekar: Front-End Engineer",
-  mobileHeading: "Souarbh Nerlekar",
+  heading: "Sourabh Nerlekar: Front-End Engineer",
+  mobileHeading: "Sourabh Nerlekar",
   description:
     "Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.",
   workExperience: "Work Experience",
@@ -86,7 +86,7 @@ export const sideBarInfo = {
     },
     {
       title: "+91 00000 00000",
-      href: "",
+      href: "tel:+91 00000 00000",
       icon: BsFillPhoneFill,
     },
     {
