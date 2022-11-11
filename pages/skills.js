@@ -12,8 +12,8 @@ const Skills = () => {
   return (
     <div>
       <TitleDesc
-        title="Jayesh's Skills"
-        desc="Here mentioned all the technical skills of Jayesh."
+        title="Sourabh's Skills"
+        desc="Here mentioned all the technical skills of Sourabh."
       />
       <SkillContainer>
         <p>{skillsData.info}</p>
