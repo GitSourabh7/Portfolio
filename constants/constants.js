@@ -301,6 +301,12 @@ export const skillsData = {
       shadowColor: "#000000",
     },
     {
+      title: "LottieFiles",
+      href: "https://lottiefiles.com/",
+      src: "/assets/lottiefiles.svg",
+      shadowColor: "#A259FF",
+    },
+    {
       title: "Vim",
       href: "https://www.vim.org/",
       src: "/assets/vim.svg",
