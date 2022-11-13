@@ -99,7 +99,7 @@ export const sideBarInfo = {
     },
     {
       title: "Portfolio link",
-      href: "https://yo-sourabh.github.io",
+      href: "https://yo-sourabh.netlify.app/",
       icon: BiLinkAlt,
     },
   ],
@@ -180,7 +180,7 @@ export const footerData = {
       icon: FaLinkedin,
     },
     {
-      href: "https://yo-sourabh.github.io",
+      href: "https://yo-sourabh.netlify.app/",
       icon: BiLinkAlt,
     },
     {
