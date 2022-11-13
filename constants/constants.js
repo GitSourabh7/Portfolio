@@ -11,8 +11,6 @@ import { BiLinkAlt } from "react-icons/bi";
 import { FaLinkedin } from "react-icons/fa";
 import { AiFillGithub } from "react-icons/ai";
 import { FaGithub } from "react-icons/fa";
-import { FaTwitterSquare } from "react-icons/fa";
-import { FaInstagram } from "react-icons/fa";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import { MdLocationOn } from "react-icons/md";
 import { MdCall } from "react-icons/md";
@@ -104,16 +102,6 @@ export const sideBarInfo = {
       href: "https://yo-sourabh.github.io",
       icon: BiLinkAlt,
     },
-    {
-      title: "Google Portfolio link",
-      href: "https://yo-sourabh.github.io/",
-      icon: AiFillGoogleCircle,
-    },
-    {
-      title: "Twitter Profile",
-      href: "https://twitter.com/NerlekarSourabh",
-      icon: AiFillTwitterCircle,
-    },
   ],
 };
 
@@ -199,19 +187,11 @@ export const footerData = {
       href: "https://github.com/GitSourabh7",
       icon: FaGithub,
     },
-    {
-      href: "https://www.instagram.com/insta__jc/",
-      icon: FaInstagram,
-    },
-    {
-      href: "https://twitter.com/NerlekarSourabh",
-      icon: FaTwitterSquare,
-    },
   ],
 };
 
 export const skillsData = {
-  info: "Sourabh loves to develop innovative web apps using new technologies, He is keen to gain experience, enhance and upgrade his skills, He enjoys building everything from small sites and landing pages to rich interactive web apps. He loves creating visually stunning, unique and responsive web apps.",
+  info: " I like to develop innovative web apps using new technologies. I enjoy developing small sites to web apps.",
   skills: [
     {
       title: "Frontend Skills",
