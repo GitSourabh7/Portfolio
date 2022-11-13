@@ -74,7 +74,7 @@ export const info = {
 
 export const sideBarInfo = {
   about:
-    "A Detailed oriented and Committed Engineering Professional with a Bachelor of Engineering in Information Technology. Well-versed in writing code to create systems that are reliable and user-friendly.",
+    "Detail and design oriented engineering professional. He likes to develop creative and innovative projects using programs and design.",
 
   contactDetails: [
     {
