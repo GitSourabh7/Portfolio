@@ -11,7 +11,6 @@ import { BiLinkAlt } from "react-icons/bi";
 import { FaLinkedin } from "react-icons/fa";
 import { AiFillGithub } from "react-icons/ai";
 import { FaGithub } from "react-icons/fa";
-import { AiFillTwitterCircle } from "react-icons/ai";
 import { MdLocationOn } from "react-icons/md";
 import { MdCall } from "react-icons/md";
 
@@ -108,19 +107,19 @@ export const sideBarInfo = {
 export const accordionData = [
   {
     question: "What skills does Sourabh have?",
-    answer: `Sourabh is well-versed in Javascript, React Js, Redux, CSS 3, HTML 5, Tailwind, Next Js, React Native, Node Js, Express Js, MongoDb.`,
+    answer: `Sourabh is well-versed in Javascript, React Js, CSS 3, HTML 5, MongoDb, GitHub etc.`,
   },
   {
     question: "What services does Sourabh provide?",
-    answer: `Sourabh provides fully responsive frontend applications with React Js, Full-stack aplications with MERN and Backend services with Node Js.`,
+    answer: `Sourabh provides fully responsive websites and frontend applications with React JS, Bootstrap, Bulma.`,
   },
   {
     question: "Is Sourabh frontend or backend developer?",
-    answer: `Sourabh is a full stack web developer, Experienced in developing full stack MERN apllications.`,
+    answer: `Sourabh is a frontend web developer, but he had certification in full-stack development.`,
   },
   {
-    question: "How much experience does Sourabh have?",
-    answer: `Sourabh has ${calculateExperience()} of experience in software industry.`,
+    question: "Does Sourabh have cerfication?",
+    answer: `Yes. Sourabh had certification by KnowledgeHut in Full-stack Development.`,
   },
 ];
 
