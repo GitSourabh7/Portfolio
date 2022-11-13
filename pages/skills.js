@@ -1,6 +1,7 @@
 import Image from "next/image";
 import TitleDesc from "../components/TitleDesc";
 import { skillsData } from "../constants/constants";
+import { otherSkillsData } from "../constants/constants";
 import {
   SkillContainer,
   SkillItem,
@@ -42,6 +43,29 @@ const Skills = () => {
               </SkillItem>
             );
           })}
+        </SkillsGrid>
+      </SkillContainer>
+
+      {/* Other Skills  */}
+      <SkillContainer>
+        <h3>{otherSkillsData.info}</h3>
+        <SkillsGrid>
+          {otherSkillsData.otherSkillsIcons.map(
+            ({ title, href, src, shadowColor }) => {
+              return (
+                <SkillItem
+                  key={title}
+                  shadowColor={shadowColor}
+                  href={href}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <Image alt="skills" width={45} height={45} src={src} />
+                  <p>{title}</p>
+                </SkillItem>
+              );
+            }
+          )}
         </SkillsGrid>
       </SkillContainer>
     </div>

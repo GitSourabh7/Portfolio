@@ -339,6 +339,49 @@ export const skillsData = {
   ],
 };
 
+export const otherSkillsData = {
+  info: "Also worked with",
+
+  otherSkillsIcons: [
+    {
+      title: "C",
+      href: "https://www.learn-c.org/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg",
+      shadowColor: "#03599C",
+    },
+    {
+      title: "C++",
+      href: "https://isocpp.org/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg",
+      shadowColor: "#9C033A",
+    },
+    {
+      title: "Tailwind CSS",
+      href: "https://tailwindcss.com/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+      shadowColor: "#38B2AC",
+    },
+    {
+      title: "Photoshop",
+      href: "",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg",
+      shadowColor: "#80B5E2",
+    },
+    {
+      title: "Wordpress",
+      href: "https://wordpress.org/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+      shadowColor: "#494949",
+    },
+    {
+      title: "Figma",
+      href: "https://www.figma.com/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+      shadowColor: "#A259FF",
+    },
+  ],
+};
+
 export const projectsData = [
   {
     title: "Laptop with React Js and Tailwind CSS",
