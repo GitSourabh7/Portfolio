@@ -19,9 +19,9 @@ const SideBar = () => {
       <ProfileContainer>
         <Image
           style={{ zIndex: "-1" }}
-          src="/assets/Profile.png"
+          src="/assets/ProfilePhoto.jpg"
           alt="Profile"
-          width={320}
+          width={280}
           height={320}
         />
       </ProfileContainer>
