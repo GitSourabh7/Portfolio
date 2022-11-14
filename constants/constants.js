@@ -56,12 +56,12 @@ export const info = {
     {
       title: "Google Portfolio (Nov 2022 - present) :",
       description:
-        "Currently, Working on a live project from scratch as a React Js Frontend developer.",
+        "Technologies used: Next.js, Styled-components, Javascript, Lottie Animations, SVGs, Babel, ESlint, HTML, CSS",
     },
     {
-      title: "FreeCodeCamp UI Clone (Sept 2022 - Oct 2022) :",
+      title: "FreeCodeCamp UI Clone (Oct 2022) :",
       description:
-        "Worked with mentioned technologies : React Js, Redux-saga, Redux-toolkit, Sass, Material Ui, axios, ag-grid-react, formik and yup. Mainly worked on the Logical part of frontend like API integration, Implementation of new features, Reusable components, Bug fixes using React Js, JavaScript and Sass.",
+        "Worked with mentioned technologies : React JS, JavaScript, HTML and CSS",
     },
   ],
 };
@@ -114,7 +114,7 @@ export const accordionData = [
   },
   {
     question: "Does Sourabh have cerfication?",
-    answer: `Yes. Sourabh had certification in Full-stack Development, provided by KnowledgeHut.`,
+    answer: `Yes. Sourabh have certification in Full-stack Development, provided by KnowledgeHut.`,
   },
 ];
 
