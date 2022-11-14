@@ -102,7 +102,7 @@ export const sideBarInfo = {
 export const accordionData = [
   {
     question: "What skills does Sourabh have?",
-    answer: `Sourabh is well-versed in Javascript, React JS, CSS 3, HTML 5, MongoDS, Git etc.`,
+    answer: `Sourabh is well-versed in Javascript, React JS, CSS 3, HTML 5, MongoDB, Git etc.`,
   },
   {
     question: "What services does Sourabh provide?",
