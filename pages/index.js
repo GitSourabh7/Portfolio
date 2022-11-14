@@ -23,8 +23,8 @@ const Home = () => {
   return (
     <div>
       <TitleDesc
-        title="Jayesh's Portfolio"
-        desc="This is Google theme portfolio created by Jayesh choudhary using Nextjs Framework."
+        title="Sourabh's Portfolio"
+        desc="This is Google theme portfolio created by Sourabh Nerlekar using Nextjs Framework."
       />
       <HomeContainer>
         <InfoContainer>
@@ -42,11 +42,11 @@ const Home = () => {
           </MobileProfile>
           <span>
             <ResumeWrapper
-              href="/assets/Jayesh's Resume.pdf"
+              href="https://bit.ly/SourabhN-Resume"
               target="_blank"
               rel="noopener noreferrer"
             >
-              {`Jayesh's Resume`}
+              {`Sourabh's Resume`}
               <AiOutlineDownload size={19} />
             </ResumeWrapper>
           </span>

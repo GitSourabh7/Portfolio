@@ -13,7 +13,7 @@ export const Layout = ({ children }) => {
   const handleSearch = (searchValue) => {
     setSearchValueChange(false);
     setSearchNotFound(
-      searchValue.toLowerCase().trim() !== "Jayesh Choudhary".toLowerCase()
+      searchValue.toLowerCase().trim() !== "Sourabh Nerlekar".toLowerCase()
     );
   };
 

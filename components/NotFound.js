@@ -22,7 +22,7 @@ const NotFound = () => {
             }}
           />
           <p>
-            {`Please search as "Jayesh Choudhary" or `}
+            {`Please search as "Sourabh Nerlekar" or `}
             <a onClick={handleClickHere}>Click here.</a>
           </p>
         </div>
