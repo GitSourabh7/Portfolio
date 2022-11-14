@@ -34,10 +34,10 @@ const Home = () => {
           <MobileProfile>
             <Image
               style={{ zIndex: "-1" }}
-              src="/assets/Profile.png"
+              src="/assets/ProfilePhoto.jpg"
               alt="Profile"
-              width={280}
-              height={280}
+              width={180}
+              height={220}
             />
           </MobileProfile>
           <span>
