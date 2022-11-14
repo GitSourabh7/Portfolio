@@ -107,19 +107,19 @@ export const sideBarInfo = {
 export const accordionData = [
   {
     question: "What skills does Sourabh have?",
-    answer: `Sourabh is well-versed in Javascript, React Js, CSS 3, HTML 5, MongoDb, GitHub etc.`,
+    answer: `Sourabh is well-versed in Javascript, React JS, CSS 3, HTML 5, MongoDS, Git etc.`,
   },
   {
     question: "What services does Sourabh provide?",
-    answer: `Sourabh provides fully responsive websites and frontend applications with React JS, Bootstrap, Bulma.`,
+    answer: `Sourabh provides fully responsive websites and frontend applications with React JS, Bootstrap, Bulma etc.`,
   },
   {
     question: "Is Sourabh frontend or backend developer?",
-    answer: `Sourabh is a frontend web developer, but he had certification in full-stack development.`,
+    answer: `Sourabh is a frontend web developer.`,
   },
   {
     question: "Does Sourabh have cerfication?",
-    answer: `Yes. Sourabh had certification by KnowledgeHut in Full-stack Development.`,
+    answer: `Yes. Sourabh had certification in Full-stack Development, provided by KnowledgeHut.`,
   },
 ];
 
