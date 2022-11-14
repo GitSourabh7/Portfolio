@@ -3,10 +3,8 @@ import { BiPencil } from "react-icons/bi";
 import { AiOutlineFundProjectionScreen } from "react-icons/ai";
 import { BiPhoneCall } from "react-icons/bi";
 import { MdOutlineLocationOn } from "react-icons/md";
-import { calculateExperience } from "../helpers/getExperience";
 import { GrMail } from "react-icons/gr";
 import { BsFillPhoneFill } from "react-icons/bs";
-import { AiFillGoogleCircle } from "react-icons/ai";
 import { BiLinkAlt } from "react-icons/bi";
 import { FaLinkedin } from "react-icons/fa";
 import { AiFillGithub } from "react-icons/ai";
@@ -53,18 +51,15 @@ export const info = {
   mobileHeading: "Sourabh Nerlekar",
   description:
     "Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.",
-  workExperience: "Work Experience",
-  designation: "Software Engineer",
-  company: "Mindtree Private Limited",
-  timePeriod: "03/2021 - Present",
-  workProjects: [
+  title: "Recent Projects",
+  projects: [
     {
-      title: "DHRE RealConnect (01/02/2022 - Present) :",
+      title: "Google Portfolio (Nov 2022 - present) :",
       description:
         "Currently, Working on a live project from scratch as a React Js Frontend developer.",
     },
     {
-      title: "Informa DNA (01/07/2021 - 31/01/2022) :",
+      title: "FreeCodeCamp UI Clone (Sept 2022 - Oct 2022) :",
       description:
         "Worked with mentioned technologies : React Js, Redux-saga, Redux-toolkit, Sass, Material Ui, axios, ag-grid-react, formik and yup. Mainly worked on the Logical part of frontend like API integration, Implementation of new features, Reusable components, Bug fixes using React Js, JavaScript and Sass.",
     },

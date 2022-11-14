@@ -51,16 +51,9 @@ const Home = () => {
             </ResumeWrapper>
           </span>
           <WorkExperience>
-            <Heading style={{ display: "block" }}>
-              {info.workExperience}
-            </Heading>
-            <strong>{info.designation}</strong>
-            <Company>
-              <p>{info.company}</p>
-              <i>{info.timePeriod}</i>
-            </Company>
+            <Heading style={{ display: "block" }}>{info.heading}</Heading>
             <ProjectList>
-              {info.workProjects.map(({ title, description }) => {
+              {info.projects.map(({ title, description }) => {
                 return (
                   <li key={title}>
                     <strong>{title}</strong> {description}
