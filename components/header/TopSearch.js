@@ -100,7 +100,7 @@ const TopSearch = () => {
           onMouseOver={() => setShowDetails(true)}
           onMouseOut={() => setShowDetails(false)}
         >
-          J
+          S
           {showDetails && (
             <AccountDetails>
               <h5>{accountDetails.account}</h5>
