@@ -106,14 +106,14 @@ export const accordionData = [
   },
   {
     question: "What services does Sourabh provide?",
-    answer: `Sourabh provides fully responsive websites and frontend applications with React JS, Bootstrap, Bulma etc.`,
+    answer: `Sourabh provides fully responsive websites and frontend applications with ReactJS, Bootstrap, Bulma etc.`,
   },
   {
     question: "Is Sourabh frontend or backend developer?",
     answer: `Sourabh is a frontend web developer.`,
   },
   {
-    question: "Does Sourabh have cerfication?",
+    question: "Do Sourabh have any cerfication?",
     answer: `Yes. Sourabh have certification in Full-stack Development, provided by KnowledgeHut.`,
   },
 ];
