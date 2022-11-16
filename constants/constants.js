@@ -393,7 +393,7 @@ export const projectsData = [
       "Netlify is used for hosting this project and videos are hosted on YouTube",
       "Tech used: NextJS, Netlify, styled-components, SVG, ESLint, Babel, CSS, Lottie Animation",
     ],
-    videoDemo: "",
+    videoDemo: "https://youtu.be/-GAsNEy3PEU",
     liveDemo: "https://sourabhnerlekar.netlify.app/",
     sourceCode: "https://github.com/GitSourabh7/Portfolio",
   },
