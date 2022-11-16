@@ -1,7 +1,6 @@
 import { useContext } from "react";
 import { ThemeContext } from "../../pages/_app";
 import { FooterContainer, SocialLinks } from "./Footer.styled";
-import { AiOutlineCopyrightCircle } from "react-icons/ai";
 import { footerData } from "../../constants/constants";
 
 const Footer = () => {
@@ -11,8 +10,7 @@ const Footer = () => {
     <FooterContainer darkMode={darkMode}>
       <p>
         {footerData.name}
-        <AiOutlineCopyrightCircle />
-        <span>{footerData.year}</span>
+        <span> {footerData.year}</span>
       </p>
       <span onClick={handleThemeMode}>
         {footerData.darkTheme}
