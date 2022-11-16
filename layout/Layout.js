@@ -33,6 +33,12 @@ export const Layout = ({ children }) => {
         </Container>
       </SearchContext.Provider>
       <Footer />
+      <div>
+        <p style={{ textAlign: "center" }}>
+          Special Thanks to
+          <a href="https://github.com/jayesh2906"> Jayesh Choudhary</a>.
+        </p>
+      </div>
     </React.Fragment>
   );
 };
