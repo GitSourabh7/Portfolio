@@ -386,7 +386,13 @@ export const projectsData = [
   {
     title: "Google Portfolio using NextJS",
     image: "/assets/GooglePortfolio.png",
-    description: ["----"],
+    description: [
+      "Build a beautiful and responsive google portfolio using SSR.",
+      "SVGs are used for reducing size of project.",
+      "This portfolio supports dark-mode",
+      "Netlify is used for hosting this project and videos are hosted on YouTube",
+      "Tech used: NextJS, Netlify, styled-components, SVG, ESLint, Babel, CSS, Lottie Animation",
+    ],
     videoDemo: "",
     liveDemo: "https://yo-sourabh.netlify.app/",
     sourceCode: "https://github.com/GitSourabh7/Portfolio",
@@ -394,127 +400,62 @@ export const projectsData = [
   {
     title: "RoboFriends using ReactJS",
     image: "/assets/RoboFriends.png",
-    description: ["----"],
-    videoDemo: "/assets/RoboFriends.mp4",
+    description: [
+      "Responsive and reusable components are used to build",
+      "Implemented quick search by just typing in searchbox",
+      "Tech used: Javascript, HTML, CSS, fake-api-service",
+    ],
+    videoDemo: "https://youtu.be/JFxEPx5un80",
     liveDemo: "",
     sourceCode: "https://github.com/GitSourabh7/robofriends",
   },
   {
-    title: "Responsive Sidebar",
+    title: "UI Navbar",
     image: "/assets/UI_Navbar.png",
-    description: ["----", "----"],
-    videoDemo: "/assets/UI_Navbar.mp4",
+    description: [
+      "Glassmorphism effect is used for background and used beautiful onHover animation effects",
+      "Tech Used: HTML, CSS and Javascript",
+    ],
+    videoDemo: "https://youtube.com/shorts/045ixgN1xZE",
     liveDemo: "",
     sourceCode: "https://github.com/GitSourabh7/UI_Navbar",
   },
   {
     title: "FreeCodeCamp UI Clone ",
     image: "/assets/FreeCodeCamp.png",
-    description: ["----", "----"],
-    videoDemo: "/assets/FreeCodeCamp.mp4",
+    description: [
+      "Responsive clone UI site of Freecodecamp build using React",
+      "Technologies used: React, Bootstrap, Javascript, HTML, CSS",
+    ],
+    videoDemo: "https://youtu.be/379KAYaSV5I",
     liveDemo: "",
     sourceCode: "https://github.com/GitSourabh7/FreeCodeCamp",
   },
   {
     title: "Moshify: The Cloud-Hosting Site ",
     image: "/assets/Moshify.png",
-    description: ["----", "----"],
-    videoDemo: "/assets/Moshify.mp4",
+    description: [
+      "The idea of this project got from the 'Mosh Hamedani's' YouTube video",
+      "This is fully responsive website",
+      "Technologies used: Javascript, HTML, CSS",
+    ],
+    videoDemo: "https://youtu.be/4CE0wWdw5io",
     liveDemo: "",
     sourceCode: "https://github.com/GitSourabh7/FreeCodeCamp",
   },
   {
     title: "Vidly: The Movie Renting Service",
     image: "/assets/Vidly.png",
-    description: ["----", "----"],
-    videoDemo: "/assets/Vidly.mp4",
+    description: [
+      "This is a movie renting service build using React",
+      "Most part of the project is build in javascript",
+      "API design, development in Xano and testing is done using Postman",
+      "Tech used: React, Xano (No-code API platform), Postman, Bootstrap, Joi",
+    ],
+    videoDemo: "https://youtu.be/i02qs0Kq0R0",
     liveDemo: "",
     sourceCode: "https://github.com/GitSourabh7/vidly",
   },
-  // {
-  //   title: "IPL-2022 Web Application",
-  //   image: "/assets/ipl2022.png",
-  //   description: [
-  //     "Implemented a WebApp that provides the live scorecard of IPL-2022 fetched from RESTful cricket API.",
-  //     "User can create his/her playing 11 team for each franchise, User can also watch the best of IPL highlights.",
-  //     "Converted to PWA that can be installed and run on mobile as a native app.",
-  //     "Deployed it to Netlify.",
-  //     "Technologies used: JavaScript, React, CSS 3, Material Ui, Local Storage.",
-  //   ],
-  //   videoDemo:
-  //     "https://www.linkedin.com/feed/update/urn:li:activity:6913334580070498304/",
-  //   liveDemo: "https://ipl-2022.netlify.app/",
-  //   sourceCode: "https://github.com/jayesh2906/IPL-2022-App",
-  // },
-  // {
-  //   title: "Full E-Commerce Web Application",
-  //   image: "/assets/iconstore.png",
-  //   description: [
-  //     "Implemented a Full E-Commerce WebApp with MERN Stack that can be used by users, sellers, and Admin.",
-  //     "Uses json web token for security, Authorization.",
-  //     "Uses Geo-location for auto-filling shipping address of user.",
-  //     "Uses Twilio message notification to registered mobile number on confirmation of orders.",
-  //     "Uses Paypal payment gateway integration for demo virtual payment of orders.",
-  //     "Technologies used: JavaScript, React, Redux Thunk, Node Js, Expess Js, Html, CSS, Bootstrap 5, MongoDB.",
-  //   ],
-  //   videoDemo:
-  //     "https://www.linkedin.com/feed/update/urn:li:activity:6842941644195672064/",
-  //   liveDemo: "",
-  //   sourceCode: "https://github.com/jayesh2906/Final-Ecommerce-Project",
-  // },
-  // {
-  //   title: "Ice Mart Mobile Application",
-  //   image: "/assets/icemart.png",
-  //   description: [
-  //     "Implemented an Ice Mart Mobile App with MERNN Stack that can be used by users, and Admin.",
-  //     "Uses json web token for security, Authorization.",
-  //     "Uses Google-maps for location of user.",
-  //     "Uses Google pay payment gateway integration for demo virtual payment of orders.",
-  //     "Technologies used: JavaScript, React Native, Redux Toolkit, Node Js, Expess Js, MongoDB.",
-  //   ],
-  //   videoDemo:
-  //     "https://www.linkedin.com/feed/update/urn:li:activity:6941967333682737152/",
-  //   liveDemo: "",
-  //   sourceCode: "https://github.com/jayesh2906/Ice-Mart",
-  // },
-  // {
-  //   title: "Real-time Online Chat Application",
-  //   image: "/assets/chatapp.png",
-  //   description: [
-  //     "Implemented a Real-time Online Chat Application with react and stream that can be used for online communication.",
-  //     "Server deployed to Heroku and Client deployed to Netlify.",
-  //     "Responsive and converted into PWA(Native app).",
-  //     "Technologies used: JavaScript, React, Stream, Node Js, Expess Js, Html, CSS.",
-  //   ],
-  //   videoDemo:
-  //     "https://www.linkedin.com/feed/update/urn:li:activity:6877141876273762304/",
-  //   liveDemo: "",
-  //   sourceCode: "https://github.com/jayesh2906/Lets-Chat-app",
-  // },
-  // {
-  //   title: "Movie Info Application",
-  //   image: "/assets/movieapp.png",
-  //   description: [
-  //     "Implemented a Movie info app with MERN Stack with third-party APIs for fetching movies record, Uses OMDb RESTful web service.",
-  //     "Technologies used: JavaScript, React, Node Js, Expess Js, Html, CSS, Bootstrap 5, MongoDB.",
-  //   ],
-  //   videoDemo:
-  //     "https://www.linkedin.com/feed/update/urn:li:activity:6842939354764201984/",
-  //   liveDemo: "",
-  //   sourceCode: "",
-  // },
-  // {
-  //   title: "All Projects Compilation",
-  //   image: "/assets/allProjects.png",
-  //   description: [
-  //     "Check here my all Projects in Video Compilation.",
-  //     "Technologies used: JavaScript, React Js, Redux, React Native, Next Js, Html5, CSS3,Tailwind Css, Material Ui, Bootstrap5, Sass, Styled Component, Node Js, Express Js, Mongo Db, Postman and Jwt-Authentication.",
-  //   ],
-  //   videoDemo:
-  //     "https://www.linkedin.com/feed/update/urn:li:activity:6962305778502254592/",
-  //   liveDemo: "",
-  //   sourceCode: "",
-  // },
 ];
 
 export const contactDetails = [
