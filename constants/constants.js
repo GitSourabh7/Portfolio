@@ -123,7 +123,7 @@ export const projectVideos = [
     heading: "Google Porfolio",
     platform: `YouTube`,
     author: `Sourabh Nerlekar`,
-    image: `/assets/GooglePortfolio.png`,
+    image: `/assets/thumbs/GooglePortfolio.png`,
     date: `15-Nov-2022`,
     link: ``,
   },
@@ -131,7 +131,7 @@ export const projectVideos = [
     heading: "RoboFriends",
     platform: `YouTube`,
     author: `Sourabh Nerlekar`,
-    image: `/assets/RoboFriends.png`,
+    image: `/assets/thumbs/RoboFriends.png`,
     date: `30-Aug-2022`,
     link: ``,
   },
@@ -139,7 +139,7 @@ export const projectVideos = [
     heading: "UI_Navbar",
     platform: `YouTube`,
     author: `Sourabh Nerlekar`,
-    image: `/assets/UI_Navbar.png`,
+    image: `/assets/thumbs/UI_Navbar.png`,
     date: `16-Apr-2022`,
     link: ``,
   },
@@ -267,61 +267,61 @@ export const skillsData = {
     {
       title: "Postman",
       href: "https://www.postman.com/",
-      src: "/assets/postman.svg",
+      src: "/assets/skill-icons/postman.svg",
       shadowColor: "#FF6C37",
     },
     {
       title: "Netlify",
       href: "https://www.netlify.com/",
-      src: "/assets/netlify.svg",
+      src: "/assets/skill-icons/netlify.svg",
       shadowColor: "#4D9ABF",
     },
     {
       title: "Xano",
       href: "https://www.xano.com/",
-      src: "/assets/xano.svg",
+      src: "/assets/skill-icons/xano.svg",
       shadowColor: "#0E99E1",
     },
     {
       title: "VS Code",
       href: "https://code.visualstudio.com/",
-      src: "/assets/VSCode.svg",
+      src: "/assets/skill-icons/VSCode.svg",
       shadowColor: "#0E99E1",
     },
     {
       title: "Replit",
       href: "https://replit.com/",
-      src: "/assets/replit.svg",
+      src: "/assets/skill-icons/replit.svg",
       shadowColor: "#000000",
     },
     {
       title: "LottieFiles",
       href: "https://lottiefiles.com/",
-      src: "/assets/lottiefiles.svg",
+      src: "/assets/skill-icons/lottiefiles.svg",
       shadowColor: "#A259FF",
     },
     {
       title: "Vim",
       href: "https://www.vim.org/",
-      src: "/assets/vim.svg",
+      src: "/assets/skill-icons/vim.svg",
       shadowColor: "#019833",
     },
     {
       title: "RegEx",
       href: "",
-      src: "/assets/RegEx.svg",
+      src: "/assets/skill-icons/RegEx.svg",
       shadowColor: "#000000",
     },
     {
       title: "JSON",
       href: "",
-      src: "/assets/JSON.svg",
+      src: "/assets/skill-icons/JSON.svg",
       shadowColor: "#1C1C1C",
     },
     {
       title: "XML",
       href: "",
-      src: "/assets/xml.svg",
+      src: "/assets/skill-icons/xml.svg",
       shadowColor: "#F29C1F",
     },
     {
@@ -385,7 +385,7 @@ export const otherSkillsData = {
 export const projectsData = [
   {
     title: "Google Portfolio using NextJS",
-    image: "/assets/GooglePortfolio.png",
+    image: "/assets/thumbs/GooglePortfolio.png",
     description: [
       "Build a beautiful and responsive google portfolio using SSR.",
       "SVGs are used for reducing size of project.",
@@ -399,7 +399,7 @@ export const projectsData = [
   },
   {
     title: "RoboFriends using ReactJS",
-    image: "/assets/RoboFriends.png",
+    image: "/assets/thumbs/RoboFriends.png",
     description: [
       "Responsive and reusable components are used to build",
       "Implemented quick search by just typing in searchbox",
@@ -411,7 +411,7 @@ export const projectsData = [
   },
   {
     title: "UI Navbar",
-    image: "/assets/UI_Navbar.png",
+    image: "/assets/thumbs/UI_Navbar.png",
     description: [
       "Glassmorphism effect is used for background and used beautiful onHover animation effects",
       "Tech Used: HTML, CSS and Javascript",
@@ -422,7 +422,7 @@ export const projectsData = [
   },
   {
     title: "FreeCodeCamp UI Clone ",
-    image: "/assets/FreeCodeCamp.png",
+    image: "/assets/thumbs/FreeCodeCamp.png",
     description: [
       "Responsive clone UI site of Freecodecamp build using React",
       "Technologies used: React, Bootstrap, Javascript, HTML, CSS",
@@ -433,7 +433,7 @@ export const projectsData = [
   },
   {
     title: "Moshify: The Cloud-Hosting Site ",
-    image: "/assets/Moshify.png",
+    image: "/assets/thumbs/Moshify.png",
     description: [
       "The idea of this project got from the 'Mosh Hamedani's' YouTube video",
       "This is fully responsive website",
@@ -445,7 +445,7 @@ export const projectsData = [
   },
   {
     title: "Vidly: The Movie Renting Service",
-    image: "/assets/Vidly.png",
+    image: "/assets/thumbs/Vidly.png",
     description: [
       "This is a movie renting service build using React",
       "Most part of the project is build in javascript",

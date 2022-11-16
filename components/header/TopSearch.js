@@ -73,10 +73,15 @@ const TopSearch = () => {
     <TopSearchContainer>
       <Logo>
         {!darkMode ? (
-          <Image src="/assets/logoDark.svg" alt="Logo" width={92} height={30} />
+          <Image
+            src="/assets/logo/logoDark.svg"
+            alt="Logo"
+            width={92}
+            height={30}
+          />
         ) : (
           <Image
-            src="/assets/logoLight.svg"
+            src="/assets/logo/logoLight.svg"
             alt="Logo"
             width={92}
             height={30}

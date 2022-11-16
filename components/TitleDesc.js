@@ -5,7 +5,7 @@ const TitleDesc = (props) => {
     <Head>
       <title>{props.title}</title>
       <meta name="description" content={props.desc} />
-      <link rel="icon" href="/assets/favicon.svg" />
+      <link rel="icon" href="/assets/logo/favicon.svg" />
     </Head>
   );
 };
