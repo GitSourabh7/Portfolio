@@ -93,7 +93,7 @@ export const sideBarInfo = {
     },
     {
       title: "Portfolio link",
-      href: "https://yo-sourabh.netlify.app/",
+      href: "https://sourabhnerlekar.netlify.app/",
       icon: BiLinkAlt,
     },
   ],
@@ -174,7 +174,7 @@ export const footerData = {
       icon: FaLinkedin,
     },
     {
-      href: "https://yo-sourabh.netlify.app/",
+      href: "https://sourabhnerlekar.netlify.app/",
       icon: BiLinkAlt,
     },
     {
@@ -394,7 +394,7 @@ export const projectsData = [
       "Tech used: NextJS, Netlify, styled-components, SVG, ESLint, Babel, CSS, Lottie Animation",
     ],
     videoDemo: "",
-    liveDemo: "https://yo-sourabh.netlify.app/",
+    liveDemo: "https://sourabhnerlekar.netlify.app/",
     sourceCode: "https://github.com/GitSourabh7/Portfolio",
   },
   {
