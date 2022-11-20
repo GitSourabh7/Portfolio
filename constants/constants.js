@@ -125,7 +125,7 @@ export const projectVideos = [
     author: `Sourabh Nerlekar`,
     image: `/assets/thumbs/GooglePortfolio.png`,
     date: `15-Nov-2022`,
-    link: ``,
+    link: `https://youtu.be/-GAsNEy3PEU`,
   },
   {
     heading: "RoboFriends",
@@ -133,7 +133,7 @@ export const projectVideos = [
     author: `Sourabh Nerlekar`,
     image: `/assets/thumbs/RoboFriends.png`,
     date: `30-Aug-2022`,
-    link: ``,
+    link: `https://youtu.be/JFxEPx5un80`,
   },
   {
     heading: "UI_Navbar",
@@ -141,7 +141,7 @@ export const projectVideos = [
     author: `Sourabh Nerlekar`,
     image: `/assets/thumbs/UI_Navbar.png`,
     date: `16-Apr-2022`,
-    link: ``,
+    link: `https://youtube.com/shorts/045ixgN1xZE`,
   },
 ];
 
