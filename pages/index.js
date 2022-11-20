@@ -42,7 +42,7 @@ const Home = () => {
           </MobileProfile>
           <span>
             <ResumeWrapper
-              href="https://bit.ly/SourabhN-Resume"
+              href="https://bit.ly/Resume-Sourabh"
               target="_blank"
               rel="noopener noreferrer"
             >

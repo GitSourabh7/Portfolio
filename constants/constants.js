@@ -48,7 +48,7 @@ export const navBar = [
 
 export const info = {
   heading: "Sourabh Nerlekar: Front-End Engineer",
-  mobileHeading: "Sourabh Nerlekar",
+  mobileHeading: "Sourabh Nerlekar: Front-End Engineer",
   description:
     "Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.",
   title: "Recent Projects",
