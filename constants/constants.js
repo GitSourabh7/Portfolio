@@ -56,12 +56,11 @@ export const info = {
     {
       title: "Google Portfolio (Nov 2022 - present) :",
       description:
-        "Technologies used: Next.js, Styled-components, Javascript, Lottie Animations, SVG, Babel, ESlint, HTML, CSS",
+        "Tech used: Next.js, Styled-Components, JavaScript, Lottie Animations, SVG, Babel, ESlint, HTML, CSS",
     },
     {
       title: "FreeCodeCamp UI Clone (Oct 2022) :",
-      description:
-        "Worked with mentioned technologies : React JS, JavaScript, HTML and CSS",
+      description: "Tech used: React JS, JavaScript, HTML and CSS",
     },
   ],
 };
@@ -102,19 +101,19 @@ export const sideBarInfo = {
 export const accordionData = [
   {
     question: "What skills does Sourabh have?",
-    answer: `Sourabh is well-versed in Javascript, React JS, CSS 3, HTML 5, MongoDB, Git etc.`,
+    answer: `Sourabh is well-versed in JavaScript, React JS, CSS 3, HTML 5, MongoDB, Git etc.`,
   },
   {
     question: "What services does Sourabh provide?",
     answer: `Sourabh provides fully responsive websites and frontend applications with ReactJS, Bootstrap, Bulma etc.`,
   },
   {
-    question: "Is Sourabh frontend or backend developer?",
-    answer: `Sourabh is a frontend web developer.`,
+    question: "Is Sourabh a front-end or backend developer?",
+    answer: `Sourabh is a front-end web developer.`,
   },
   {
-    question: "Do Sourabh have any cerfication?",
-    answer: `Yes. Sourabh have certification in Full-stack Development, provided by KnowledgeHut.`,
+    question: "Does Sourabh have any certfication?",
+    answer: `Yes. Sourabh have certification in Full-stack Development, provided by KnowledgeHut Upgrad.`,
   },
 ];
 
@@ -402,8 +401,8 @@ export const projectsData = [
     image: "/assets/thumbs/RoboFriends.png",
     description: [
       "Responsive and reusable components are used to build",
-      "Implemented quick search by just typing in searchbox",
-      "Tech used: Javascript, HTML, CSS, fake-api-service",
+      "Implemented quick search by just typing in search box",
+      "Tech used: JavaScript, HTML, CSS, fake-API-service",
     ],
     videoDemo: "https://youtu.be/JFxEPx5un80",
     liveDemo: "",
@@ -414,7 +413,7 @@ export const projectsData = [
     image: "/assets/thumbs/UI_Navbar.png",
     description: [
       "Glassmorphism effect is used for background and used beautiful onHover animation effects",
-      "Tech Used: HTML, CSS and Javascript",
+      "Tech Used: HTML, CSS and JavaScript",
     ],
     videoDemo: "https://youtube.com/shorts/045ixgN1xZE",
     liveDemo: "",
@@ -425,7 +424,7 @@ export const projectsData = [
     image: "/assets/thumbs/FreeCodeCamp.png",
     description: [
       "Responsive clone UI site of Freecodecamp build using React",
-      "Technologies used: React, Bootstrap, Javascript, HTML, CSS",
+      "Tech used: React, Bootstrap, Javascript, HTML, CSS",
     ],
     videoDemo: "https://youtu.be/379KAYaSV5I",
     liveDemo: "",
@@ -437,7 +436,7 @@ export const projectsData = [
     description: [
       "The idea of this project got from the 'Mosh Hamedani's' YouTube video",
       "This is fully responsive website",
-      "Technologies used: Javascript, HTML, CSS",
+      "Tech used: JavaScript, HTML, CSS",
     ],
     videoDemo: "https://youtu.be/4CE0wWdw5io",
     liveDemo: "",
